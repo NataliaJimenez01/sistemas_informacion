@@ -1,2 +1,2 @@
 # sistemas_informacion
-Practica GitHub de Slack
+Practica GitHub de Slack.
